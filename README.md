@@ -1,1 +1,1 @@
-"# Machine-learning-foundation" 
+# Python implementation of some common algorithms in machine learning.
